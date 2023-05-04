@@ -1,11 +1,11 @@
 # vue-js-firebase-crud
-#Project setup
-npm install
-#Compiles and hot-reloads for development
-npm run serve
-#Compiles and minifies for production
-npm build
-#Lints and fixes files
-npm lint
-#Customize configuration
-See Configuration Reference.
+h2 Project setup
+- npm install
+h2 Compiles and hot-reloads for development
+- npm run serve
+h2 Compiles and minifies for production
+- npm build
+h2 Lints and fixes files
+- npm lint
+h2 Customize configuration
+- See Configuration Reference.
